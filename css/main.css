@@ -9,6 +9,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     color: #333;
+    background-color: rgb(171, 192, 211);
 }
 
 #container {
@@ -42,4 +43,24 @@ h1 + p::first-letter {
     box-shadow: 3px 3px 0 rgb(80, 227, 80);
     margin-right: 8px;
 
+}
+
+.bottle {
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.man_crouch {
+    width: 300px;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
